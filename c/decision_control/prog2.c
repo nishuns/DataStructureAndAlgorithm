@@ -13,6 +13,12 @@
  * November 3
  * December 5
  */
+
+/**
+ * Q: Acording to the Gregorian Calender, it was Monday on the data 01/01/01. if any year is input through the keyboard.
+ *    write program to find out what is the day on 1st January of the given year.
+ */
+
 #include <stdio.h>
 
 int main()
